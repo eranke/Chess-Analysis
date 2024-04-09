@@ -6,7 +6,7 @@ analyzing chess positions is an expensive runtime operation, I had to use parall
 CPU's.
 
 # final-sh.txt
-this is the batch file I used in order to run my program on the UNIX operating system of the university computers.
+This is the batch file I used in order to run my program on the UNIX operating system of the university computers.
 
 # parallel_noGD.R
 This is the program I wrote in 'R' for analyzing the chess positions. The program uses the 'R' library "Bigchess" which interfaces with chess engines. 
